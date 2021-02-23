@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "my-game-dev",
+    "dev": "my-game-dev",
+    "prod": "my-game-prod"
+  }
+}
